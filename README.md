@@ -7,5 +7,12 @@ pip install telebot
 or 
 pip install pytelegrambotapi 
 ```
+The bot uses telebot to connect with the telegram api.
 
-
+[x] That is by :
+``` Python 
+import telebot 
+TOKEN = <bot token to fill. in from bot father> 
+bot = telebot.TeleBot(TOKEN)
+.....
+```
