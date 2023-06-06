@@ -16,3 +16,10 @@ TOKEN = <bot token to fill. in from bot father>
 bot = telebot.TeleBot(TOKEN)
 .....
 ```
+For a working bot search for: 
+``` Python
+@translator_wambugu_bot
+```
+in the telegram search bar.
+Bot hosted in  Python anywhere.
+
