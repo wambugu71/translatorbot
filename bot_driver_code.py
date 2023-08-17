@@ -1,4 +1,5 @@
 import telebot 
+import os
 from googletrans import *
 #trans = Translator()
 API_TOKEN= os.environ['PASS']
